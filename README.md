@@ -1,9 +1,6 @@
-no# Crowdfunding-xrpl
-An open-source crowdfunding project that is powered by the XRP Ledger.
-
 **Technical Side Of Our Project:**
 ---
-Our project is an open-source crowdfunding platform powered by the XRP Ledger technology to process all payment transactions as smart contracts on the ripple blockchain. Our main focus is to is to make the entire platform's transactions runs on the blockchain for absolut transperancy. Oru proejct is going to be built as 2 main Components:
+Our project is an open-source crowdfunding platform powered by the XRP Ledger technology to process all payment transactions as smart contracts on the ripple blockchain. Our main focus is to make the entire platform's transactions run on the blockchain for absolute transparency. Our project is going to be built into 2 Main Components:
 1.  Open Source Crowdfunding Platform (Goteo Version 3)
 2.  Smart-Contracts Integration With The XRPL
 
@@ -27,6 +24,7 @@ We're focusing our energy on building the perfect integration for our platform t
 
 **The main XRPL Components we're relying on:**
 ---
+Since we're going to run our platform on the blockchain we need the backup of such technology behind us. This is where the XRPL comes in. We rely on this powerful blockchain technology to empower our project. Below are the main components we're aiming to use:  
 1. Accounts: https://xrpl.org/label-accounts.html:
 This is crucial: We're going to open an account on the chosen currency where the funded projects are going to receive the donations, later they can choose to withdraw their balance.
 
@@ -34,24 +32,27 @@ This is crucial: We're going to open an account on the chosen currency where the
 We're happy to say that our platform will support multi-currency donation so both the donator and the funded project owner can choose their favorite currency
 
 3. Transaction Sending: https://xrpl.org/label-transaction-sending.html
-Our core function is transactions via the XRPL, this is where all donations are taking place
+Our core function is transactions via the XRPL, this is where all donations are taking place.
 
-Our Project is based on an open-source project "Goteo Version 3" an Open Source Crowdfunding Platform. Our mail play is to empower
-This platform with the XRPL as a transactions ledger for all donations made throughout the platform.
+Our Project is based on an open-source project "Goteo Version 3" an Open Source Crowdfunding Platform. Our main play is to empower this platform with the XRPL as our secure transactions ledger for all donations made throughout the platform.
 
 **How Our Project Will Benefit The XRPL Community?**
 ---
-1. One of our project main componenet is **"Payment Processor Integration"** it going to become a handful open source project that all XRPL community can use and integrates it withing their own proejcts. 
-2. Thanks to our open-source license, we believe that we're preapring a preciouse piece of work to the community whom will responde to it with generouse contributions and help us improve it. 
-3. Our project will provide an open-source XRPL Integration that the community members can use it to empower their own projects with the XRPL. e.g: if you have a simple paltform that process/store payments transactions, our integration will help you run you payment processing on the XRP Ledger, so you'll have a ready to go solution at your own command.   
+1. One of our project's main component is **"Payment Processor Integration"** is going to become a handful of open source project that all XRPL community can use and integrates within their projects. 
+2. Thanks to our open-source license, we believe that we're preparing a precious piece of work for the community who will respond to it with generous contributions and help us improve and open new potential for it.
+3. Our project will provide an open-source XRPL Integration that the community members can use to empower their projects with the XRPL. E.g: if you have a simple platform that processes/stores any kind of payments transactions, our **XRPL Integration** will help you make all your financial activities tracked and timestamped on the XRPL blockchain so you'll have a secure leader solution that no one can mess with.
 
 **Our Plan Of Licensing Our Work**
-One of our proejct main components is an open-source project and we really appriciate this as it gave us a huge junp-off to save us the time and recourse of building it. We don't want our integration to be hard-coded for this platform only! we want all the community to be able to use it for any other project, so we're going to make sure that it's goging to be open for customizations with any other platform, we're going to do the following conserning the licensing:
-1. A customized version of our project will remain private for own platform, because 
-2. An open-source version will be availble for the XRP community 
+---
+One of our project's main components is an open-source project and we appreciate this as it gave us a huge jump-off to save us the time and recourse of building it. We don't want our integration to be hard-coded for this platform only! we want all the community to be able to use it for any other project, so we're going to make sure that it's going to be open for customizations with any other platform, we're going to do the following concerning the licensing:
+1. A customized version of our project will remain private for our platform, because 
+2. An open-source version will be available for the XRP community 
 
+**Key Deliverables & Milestones**
+---
+1. Online Crowdfund
 
-**Demo eeprscwith the  tion site will look like:
+**Demo page that represents how the site will look like:
 https://en.goteo.org
 
 2. And this is what a funding project page will look like too:
