@@ -1,7 +1,7 @@
 **Technical Side Of Our Project:**
 ---
-Our project is an open-source crowdfunding platform powered by the XRP Ledger technology to process all payment transactions as smart contracts on the ripple blockchain. Our main focus is to make the entire platform's transactions run on the blockchain for absolute transparency. Our project is going to be built into 2 Main Components:
-1.  Open Source Crowdfunding Platform (Goteo Version 3)
+Our project is an open-source crowdfunding platform powered by the XRP Ledger technology that processes all payments transactions XRPL blockchain for absolute transparency. Our project is going to be built into 2 Main Components:
+1.  "kick-off" Open Source Crowdfunding Platform (Goteo Version 3)
 2.  Smart-Contracts Integration With The XRPL
 
    **Our Goals:**
@@ -12,7 +12,7 @@ Our project is an open-source crowdfunding platform powered by the XRP Ledger te
    5. "Decentralized Crowdfunding Platform"
 
    **Our Backend Technology:**
-   From a technical side, our project is a crowdfunding platform to collect all donations and process all payments transactions on the XRP Ledger. For this reason, our project is going to be built on top of 2 main components:
+   From a technical side, our project is a crowdfunding platform that collect donations and process all payments transactions on the XRP Ledger. For this reason, our project is going to be built on top of 2 main components:
 
    1. Goteo Version 3, the Open Source Crowdfunding Platform:
    The Goteo platform already gave us a big push forward, as we've been concerned about coding the base platform but thanks to this open-source platform we can dedicate all of our time to building the ledger integration between our platform and the XRP Ledger.
