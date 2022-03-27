@@ -75,7 +75,7 @@ Our hope lies in making our platform works in a similar way to how the Blockchai
 1. Completely Decentralized
 2. Runs on Web3.0
 3. Maintained By The Community
-4. Run its own crypto currency
+4. Run Its Own Crypto Currency
 
 
 
