@@ -48,8 +48,20 @@ One of our project's main components is an open-source project and we appreciate
 
 **Key Deliverables & Milestones**
 ---
-1. Online crowdfunding platform that runs on the XRPL
-2. Open-source XRPL integration as
+**Milestones**
+
+Our project is going to rool out in 2 phases:
+A. Developpement & Testing (3-4 Months):
+ 1. Work on development of the payment integration on the XRPL (first 2 Months)
+ 2. Publish the initial beta version & gave access to test users (month 2 to 4)
+ 3. Finilize the production version (month 5)
+ 4. Put together a marketing strategy to spread our platform service accross the world.
+ 5. Spread the word about the platform in the XRP communities we are currentlly managing & the ones we're part of. 
+ 7. Run Marketing Campaigns on selected countries
+
+**Deliverables:**
+Our primary milestone is the have a working crowdfunbding platform that run on the blockchain.Online crowdfunding platform that runs on the XRPL
+3. Open-source XRPL integration as
 
 
 **How Dose Our Platform Actually Works?**
